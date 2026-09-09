@@ -98,7 +98,7 @@ A private B2B commerce platform connecting shops and businesses with suppliers a
 
 **Stack:** Laravel · MySQL · Flutter · REST API · Firebase
 
-[View Case Study →](#)
+[View Case Study →](https://github.com/nour0x/talabyaat-case-study)
 
 ---
 
